@@ -1,5 +1,5 @@
 #include "FLSWRenderMath.H"
-#ifndef __APPLE__
+#ifndef __APPLE__ 
 #include <omp.h>
 #endif /// of __APPLE__
 
